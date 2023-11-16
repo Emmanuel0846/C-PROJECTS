@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678116807 source:c:\users\acer\desktop\infinity\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1678190975 source:c:\users\acer\desktop\infinity\practice.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

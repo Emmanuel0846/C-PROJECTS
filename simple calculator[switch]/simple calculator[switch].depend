@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678203595 source:c:\users\acer\desktop\simple calculator[switch]\main.c
+	<stdio.h>
+	<stdlib.h>
+

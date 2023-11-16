@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678262935 source:c:\users\acer\desktop\multiple with loop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

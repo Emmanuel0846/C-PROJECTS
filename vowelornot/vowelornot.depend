@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678197964 source:c:\users\acer\desktop\vowelornot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

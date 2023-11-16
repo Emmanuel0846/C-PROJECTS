@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678268310 source:c:\users\acer\desktop\multiplication table\main.c
+	<stdio.h>
+	<stdlib.h>
+
